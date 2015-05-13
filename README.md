@@ -1,2 +1,2 @@
 # Apriori Algorithm
-This is a implementation of Apriori algorithm for association rule mining using C#
+This is an implementation of Apriori algorithm for association rule mining. (Using C# programming language)
