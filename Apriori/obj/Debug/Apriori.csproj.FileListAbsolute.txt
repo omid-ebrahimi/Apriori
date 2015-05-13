@@ -1,0 +1,6 @@
+C:\Users\OMID EBRAHIMI\Dropbox\My Logs\DM - HW4\Apriori\Apriori\bin\Debug\Apriori.exe
+C:\Users\OMID EBRAHIMI\Dropbox\My Logs\DM - HW4\Apriori\Apriori\bin\Debug\Apriori.pdb
+C:\Users\OMID EBRAHIMI\Dropbox\My Logs\DM - HW4\Apriori\Apriori\obj\Debug\Apriori.exe
+C:\Users\OMID EBRAHIMI\Dropbox\My Logs\DM - HW4\Apriori\Apriori\obj\Debug\Apriori.pdb
+C:\Users\OMID EBRAHIMI\Dropbox\My Logs\DM - HW4\Apriori\Apriori\obj\Debug\Apriori.csprojResolveAssemblyReference.cache
+C:\Users\OMID EBRAHIMI\Dropbox\My Logs\DM - HW4\Apriori\Apriori\bin\Debug\Apriori.exe.config
